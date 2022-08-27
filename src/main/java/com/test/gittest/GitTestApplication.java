@@ -14,6 +14,7 @@ public class GitTestApplication {
         System.out.println("hot-fix-test");
         System.out.println("push-test");
          System.out.println("push-test1111");
+         System.out.println("gitee-test1111");
         SpringApplication.run(GitTestApplication.class, args);
     }
 
