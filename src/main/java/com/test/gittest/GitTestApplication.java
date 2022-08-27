@@ -10,6 +10,7 @@ public class GitTestApplication {
         System.out.println("git2");
         System.out.println("git3");
         System.out.println("git4 hot-fix");
+        System.out.println("master test");
         SpringApplication.run(GitTestApplication.class, args);
     }
 
